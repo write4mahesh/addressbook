@@ -1,0 +1,4 @@
+Hi
+This is Niranjan
+I have created this file to test the git status command
+
